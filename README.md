@@ -86,17 +86,6 @@ This project collection demonstrates my practical understanding of:
 
 ---
 
-## 📈 Future Improvements
-
-- Add more real-world datasets  
-- Integrate SQL with Python  
-- Build dashboards using Power BI / Tableau  
-- Optimize queries for performance  
-
----
-
-
-
 ## ⭐ Support
 
 If you found this helpful, please ⭐ the repository!
