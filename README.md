@@ -86,6 +86,13 @@ This project collection demonstrates my practical understanding of:
 
 ---
 
+## 👩‍💻 Author
+
+**Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
+
 ## ⭐ Support
 
 If you found this helpful, please ⭐ the repository!
