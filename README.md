@@ -90,3 +90,13 @@ It covers everything from **basic CRUD operations** to **complex joins, subqueri
 
 ---
 
+## 👩‍💻 Author
+
+**Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
+
+---
+
+⭐ If you find these projects useful, consider **starring the repository**!
