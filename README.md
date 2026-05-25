@@ -7,7 +7,7 @@ It covers everything from **basic CRUD operations** to **complex joins, subqueri
 
 ## 📁 Projects Included
 
-### 🔹 Project 1: Customer Order System
+### 🔹 1 Data Digger
 
 * Created tables: Customer, Orders, Product, OrderDetail
 * Performed:
@@ -20,7 +20,7 @@ It covers everything from **basic CRUD operations** to **complex joins, subqueri
 
 ---
 
-### 🔹 Project 2: Business Data Analysis
+### 🔹 2 Data Transformer
 
 * Tables: Customers, Orders, Employees
 * Concepts covered:
@@ -35,7 +35,7 @@ It covers everything from **basic CRUD operations** to **complex joins, subqueri
 
 ---
 
-### 🔹 Final Project: Student Management System
+### 🔹 Student Management System
 
 * Tables: Students, Department, Courses, Instructor, Enrollment
 * Features:
@@ -49,7 +49,7 @@ It covers everything from **basic CRUD operations** to **complex joins, subqueri
 
 ---
 
-### 🔹 Practical Exam: Library Management System
+### 🔹 Library Management System
 
 * Tables: Authors, Books, Members, Transactions
 * Key Features:
